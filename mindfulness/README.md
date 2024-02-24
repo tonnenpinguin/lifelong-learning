@@ -40,6 +40,8 @@ Instead of worrying about an uncertain outcome make a plan on how you'll deal wi
 
 > If we treat ourselves as we are we will remain that way. If we treat ourselves as we can be then we'll become as we can be
 
+> Regrets never make sense because they presuppose that the alternative would have been better. Everything changes once we make a decision and take action, which means we can never know what the "road not taken" would have been like. When we are displeased with our join we mindlessly assume the unchosen alternative would have been better.
+
 ### Remission
 
 A person gets back from hospital and after having cancer is told it's gone - therefore they're in remission.
@@ -47,6 +49,12 @@ If I go to the same hospital and do the same test I'm told I don't have cancer.
 If you have a cold and it's gone you wouldn't say you were in remission. If you get a cold again you would treat it as a different cold.
 Seeing yourself as "in remission" rather than as cured makes you wait for the cancer to return.
 Stress has a very big influence on developing diseases.
+
+### Risk
+
+It's virtually impossible to classify people as risk-seeking or risk averse.
+People taking - what you would consider - a risk are acting in a way that at least to them seems reasonable.
+Risk itself is highly dependant on how you interpret the situation.
 
 ## Alexi Pappas x Rich Roll
 
